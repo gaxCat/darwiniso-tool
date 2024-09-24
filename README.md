@@ -17,7 +17,5 @@
 
 #### 下载
 
-[darwin14.0下载地址]((https://github.com/gaxCat/darwiniso-tool/blob/main/darwin.iso))
-[darwin15.0-beta下载地址](https://gitee.com/pwbc/darwiniso-tool/raw/master/darwinPre15.iso)
-如有需要也可以自行下载目录内的darwin.sig文件（签名文件）
-
+[darwin14.0下载地址](https://github.com/gaxCat/darwiniso-tool/blob/main/darwin.iso)
+[darwin15.0-beta下载地址](https://github.com/gaxCat/darwiniso-tool/blob/main/darwinPre15.iso)
